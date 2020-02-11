@@ -1,0 +1,8 @@
+{
+  "name": "立方",
+  "employees": [
+    { "firstName":"Bill" , "lastName":"Gates" },
+    { "firstName":"George" , "lastName":"Bush" },
+    { "firstName":"Thomas" , "lastName":"Carter" }
+  ]
+}
